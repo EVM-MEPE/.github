@@ -203,3 +203,12 @@ const TransactionComponent = () => {
 - Fungible social token
 - Treasury management tool with connecting multisig
 - Onchain chat between MEPE users
+
+
+## Built with
+java, javascript, sql, mysql, aws, solidity, truffle, nginx, firebase, react
+
+## Try out link
+- [Demo Page](https://mepe.app)
+- [Devpost Gallery](https://devpost.com/software/mepe-fi)
+
